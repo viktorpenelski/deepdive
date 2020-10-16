@@ -8,3 +8,5 @@ choose a format and pick topic 😎
 ## [1 Domain Names and DNS](domain-names-and-dns.md)
 
 ## [2 HTTP](http.md)
+
+## [3 TLS + Authenticaiton](tls-and-auth.md)
